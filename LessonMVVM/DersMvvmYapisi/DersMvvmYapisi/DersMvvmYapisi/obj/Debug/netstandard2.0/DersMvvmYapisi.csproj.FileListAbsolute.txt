@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\bin\Debug\netstandard2.0\DersMvvmYapisi.deps.json
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\bin\Debug\netstandard2.0\DersMvvmYapisi.dll
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\bin\Debug\netstandard2.0\ref\DersMvvmYapisi.dll
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\bin\Debug\netstandard2.0\DersMvvmYapisi.pdb
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\DersMvvmYapisi.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\Views\CarView.xaml.g.cs
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\DersMvvmYapisi.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\DersMvvmYapisi.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\DersMvvmYapisi.dll
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\ref\DersMvvmYapisi.dll
+C:\Users\Toshiba\Desktop\LocalRepo\LessonMVVMExample\DersMvvmYapisi\DersMvvmYapisi\DersMvvmYapisi\obj\Debug\netstandard2.0\DersMvvmYapisi.pdb
